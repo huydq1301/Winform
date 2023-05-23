@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{57697807-A1FB-41E3-9482-67DD9DEFDED8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>btl_QLBanHang</RootNamespace>
+    <AssemblyName>btl_QLBanHang</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\CommonFunction.cs" />
+    <Compile Include="Classes\ConnectData.cs" />
+    <Compile Include="Classes\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormBTL\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\ChiTietHDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\ChiTietHDB.Designer.cs">
+      <DependentUpon>ChiTietHDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\ChiTietHDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\ChiTietHDN.Designer.cs">
+      <DependentUpon>ChiTietHDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\ChiTietNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\ChiTietNV.Designer.cs">
+      <DependentUpon>ChiTietNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\DoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\DoanhThu.Designer.cs">
+      <DependentUpon>DoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\HDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\HDN.Designer.cs">
+      <DependentUpon>HDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\HDX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\HDX.Designer.cs">
+      <DependentUpon>HDX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\KhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\KhuyenMai.Designer.cs">
+      <DependentUpon>KhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\RecoverPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\RecoverPassword.Designer.cs">
+      <DependentUpon>RecoverPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\TimKiemSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\TimKiemSP.Designer.cs">
+      <DependentUpon>TimKiemSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FormBTL\SanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\SanPham.Designer.cs">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBTL\TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBTL\TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormBTL\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\ChiTietHDB.resx">
+      <DependentUpon>ChiTietHDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\ChiTietHDN.resx">
+      <DependentUpon>ChiTietHDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\ChiTietNV.resx">
+      <DependentUpon>ChiTietNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\DoanhThu.resx">
+      <DependentUpon>DoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\HDN.resx">
+      <DependentUpon>HDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\HDX.resx">
+      <DependentUpon>HDX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\KhuyenMai.resx">
+      <DependentUpon>KhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\RecoverPassword.resx">
+      <DependentUpon>RecoverPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\TimKiemSP.resx">
+      <DependentUpon>TimKiemSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\SanPham.resx">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBTL\TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Images\background_login\wall.jpg.crdownload" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_frmMain\bgfrmain.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_frmMain\wall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_frmMain\wall1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\home_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\employee_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\bill_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\client_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\product_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\promote_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\sum_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\wallet_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_login\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_login\wall1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_login\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\background_login\bg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\ChiTiet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\blue-home-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\kisspng-computer-icons-profit-business-share-icon-revenue-5af8d81bb97778.0111164015262576917597.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_color\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\gmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\showpass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Login\hidepass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\addwhite.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\addnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\addnewwww.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\editnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\removenew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\printnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\skipnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\savenew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\cancelnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\detailnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\icon_button\searchnew.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

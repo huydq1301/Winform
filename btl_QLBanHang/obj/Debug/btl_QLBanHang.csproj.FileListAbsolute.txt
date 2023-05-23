@@ -1,0 +1,148 @@
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe.config
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\bin\Debug\btl_QLBanHang.pdb
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.Properties.Resources.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.exe
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.pdb
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.LoginForm.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.TrangChu.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.DoanhThu.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhachHang.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.NhanVien.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.HDN.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.HDX.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhuyenMai.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.SanPham.resources
+C:\Users\ACER\source\repos\BTL_QLBanHang\btl_QLBanHang\btl_QLBanHang\obj\Debug\btl_QLBanHang.FrmMain.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe.config
+D:\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe
+D:\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.pdb
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.AssemblyReference.cache
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.DoanhThu.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FrmMain.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.HDN.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.HDX.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhachHang.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhuyenMai.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.LoginForm.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.NhanVien.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.Properties.Resources.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.SanPham.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.TrangChu.resources
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.GenerateResource.cache
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.CoreCompileInputs.cache
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.exe
+D:\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.pdb
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe.config
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.pdb
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.AssemblyReference.cache
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.DoanhThu.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FrmMain.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhachHang.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhuyenMai.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.LoginForm.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.NhanVien.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.Properties.Resources.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.SanPham.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.TrangChu.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.GenerateResource.cache
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.CoreCompileInputs.cache
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.exe
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.pdb
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDN.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDB.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDN.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDX.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChangePassword.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietNV.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ForgotPassword.resources
+D:\source\repos\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.RecoverPassword.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe.config
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.pdb
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.AssemblyReference.cache
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.SuggestedBindingRedirects.cache
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChangePassword.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDB.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDN.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietNV.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.DoanhThu.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ForgotPassword.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FrmMain.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDN.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDX.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhachHang.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhuyenMai.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.RecoverPassword.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.LoginForm.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.NhanVien.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.Properties.Resources.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.SanPham.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.TrangChu.resources
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.GenerateResource.cache
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.CoreCompileInputs.cache
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.exe
+E:\Back up - Onedrive\OneDrive\Desktop\LTTQ\btl_25_10\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.pdb
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe.config
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.pdb
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.AssemblyReference.cache
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.SuggestedBindingRedirects.cache
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChangePassword.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDB.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDN.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietNV.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.DoanhThu.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ForgotPassword.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FrmMain.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDN.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDX.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhachHang.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhuyenMai.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.RecoverPassword.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.LoginForm.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.NhanVien.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.Properties.Resources.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.SanPham.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.TrangChu.resources
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.GenerateResource.cache
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.CoreCompileInputs.cache
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.exe
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.pdb
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.ResolveComReference.cache
+D:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.SanPham.TimKiemSP.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe.config
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.exe
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\bin\Debug\btl_QLBanHang.pdb
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.AssemblyReference.cache
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.SuggestedBindingRedirects.cache
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.ResolveComReference.cache
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChangePassword.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDB.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietHDN.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ChiTietNV.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.DoanhThu.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.ForgotPassword.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FrmMain.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDN.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.HDX.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhachHang.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.KhuyenMai.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.RecoverPassword.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.FormBTL.SanPham.TimKiemSP.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.LoginForm.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.NhanVien.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.Properties.Resources.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.SanPham.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.TrangChu.resources
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.GenerateResource.cache
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.csproj.CoreCompileInputs.cache
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.exe
+E:\Máy tính\BaiTapLon_QLBH\btl_QLBanHang\obj\Debug\btl_QLBanHang.pdb
